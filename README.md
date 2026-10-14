@@ -24,7 +24,7 @@ O Google Agenda pode levar algumas horas para buscar as atualizações.
 ## Próximos eventos
 
 <!-- TABELA:INICIO -->
-_Última revisão das fontes: 14/10/2026 · 6 eventos com data confirmada._
+_Última revisão das fontes: 14/10/2026 · 7 eventos com data confirmada._
 
 ### Outubro de 2026
 
@@ -40,6 +40,12 @@ _Última revisão das fontes: 14/10/2026 · 6 eventos com data confirmada._
 |---|---|---|---|---|---|---|
 | [CISOXBrazil 2026](https://www.helpnetsecurity.com/event/cisoxbrazil-2026/) | 05/11/2026 | São Paulo/SP | Presencial | Pago | Cibersegurança | – |
 | [Nullbyte Security Conference 2026](https://nullbyte-con.org/) | 07/11/2026 | Salvador/BA | Presencial | Pago | Cibersegurança | – |
+
+### Dezembro de 2026
+
+| Evento | Data | Local | Formato | Entrada | Tema | Chamada de palestras |
+|---|---|---|---|---|---|---|
+| [Data Privacy Global Conference 2026](https://dpgconference.com.br/) | 07 a 08/12/2026 | ESPM Vila Mariana, São Paulo/SP | Presencial | Pago | Privacidade | – |
 
 ### Junho de 2027
 

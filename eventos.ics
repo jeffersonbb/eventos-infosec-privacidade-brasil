@@ -80,6 +80,20 @@ URL:https://nullbyte-con.org/
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
+UID:data-privacy-global-conference-2026@eventos-infosec-privacidade-brasil
+DTSTAMP:20261014T000000Z
+LAST-MODIFIED:20261014T000000Z
+DTSTART;VALUE=DATE:20261207
+DTEND;VALUE=DATE:20261209
+SUMMARY:Data Privacy Global Conference 2026
+LOCATION:ESPM Vila Mariana\, São Paulo/SP
+DESCRIPTION:Privacidade · Presencial · Pago\nConferência da Data Privacy
+  Brasil sobre proteção de dados e governança no Sul Global.\nSite: http
+ s://dpgconference.com.br/\nFonte da data: https://dpgconference.com.br/
+URL:https://dpgconference.com.br/
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
 UID:web-summit-rio-2027@eventos-infosec-privacidade-brasil
 DTSTAMP:20261014T000000Z
 LAST-MODIFIED:20261014T000000Z
