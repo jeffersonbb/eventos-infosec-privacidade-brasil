@@ -1,0 +1,35 @@
+name: Atualizar tabela e calendário
+
+on:
+  push:
+    branches: [main]
+    paths: ["eventos.json", "scripts/**", "README.md"]
+  schedule:
+    - cron: "15 3 * * *"  # todo dia às 00:15 (Brasília), remove eventos que já passaram
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+concurrency:
+  group: atualizar
+  cancel-in-progress: false
+
+jobs:
+  gerar:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+      - run: python scripts/gerar.py
+      - name: Salvar alterações
+        run: |
+          if [ -n "$(git status --porcelain)" ]; then
+            git config user.name "github-actions[bot]"
+            git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+            git add -A
+            git commit -m "Atualiza tabela e calendário"
+            git push
+          fi

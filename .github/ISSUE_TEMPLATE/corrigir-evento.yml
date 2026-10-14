@@ -1,0 +1,23 @@
+name: Corrigir evento
+description: Data mudou, evento cancelado ou informação errada
+title: "[Correção] "
+labels: ["correção"]
+body:
+  - type: input
+    id: nome
+    attributes:
+      label: Evento
+    validations:
+      required: true
+  - type: textarea
+    id: correcao
+    attributes:
+      label: O que está errado e qual a informação correta
+    validations:
+      required: true
+  - type: input
+    id: fonte
+    attributes:
+      label: Link da fonte
+    validations:
+      required: true

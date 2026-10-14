@@ -1,0 +1,47 @@
+name: Sugerir evento
+description: Indique um evento de cibersegurança ou privacidade no Brasil
+title: "[Sugestão] "
+labels: ["sugestão"]
+body:
+  - type: input
+    id: nome
+    attributes:
+      label: Nome do evento
+      placeholder: BSides Rio de Janeiro 2027
+    validations:
+      required: true
+  - type: input
+    id: data
+    attributes:
+      label: Data
+      placeholder: 20/03/2027 ou 14 a 17/06/2027
+    validations:
+      required: true
+  - type: input
+    id: local
+    attributes:
+      label: Cidade/UF ou "Online"
+      placeholder: Rio de Janeiro/RJ
+    validations:
+      required: true
+  - type: input
+    id: fonte
+    attributes:
+      label: Link oficial onde a data aparece
+      description: Sem fonte verificável o evento não entra na lista.
+    validations:
+      required: true
+  - type: dropdown
+    id: entrada
+    attributes:
+      label: Entrada
+      options: [Gratuito, Pago, Não sei]
+  - type: input
+    id: cfp
+    attributes:
+      label: Chamada de palestras (se houver)
+      placeholder: link e prazo
+  - type: textarea
+    id: obs
+    attributes:
+      label: Observações

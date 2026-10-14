@@ -1,0 +1,160 @@
+{
+  "revisado_em": "2026-10-14",
+  "eventos": [
+    {
+      "id": "bsides-curitiba-2026",
+      "nome": "BSides Curitiba 2026",
+      "inicio": "2026-10-17",
+      "fim": "2026-10-17",
+      "cidade": "Curitiba",
+      "uf": "PR",
+      "formato": "Presencial",
+      "entrada": "Pago",
+      "tema": "Cibersegurança",
+      "site": "https://bsidescwb.com.br/",
+      "fonte": "https://infosec-conferences.com/event/20261017-bsides-curitiba-2026/",
+      "verificado_em": "2026-10-14"
+    },
+    {
+      "id": "security-leaders-nacional-2026",
+      "nome": "Security Leaders Nacional 2026",
+      "inicio": "2026-10-21",
+      "fim": "2026-10-22",
+      "cidade": "São Paulo",
+      "uf": "SP",
+      "local": "WTC Events Center",
+      "formato": "Presencial",
+      "entrada": "Gratuito com aprovação ou pago",
+      "tema": "Cibersegurança",
+      "resumo": "Voucher gratuito para lideranças com e-mail corporativo, sujeito a aprovação.",
+      "site": "https://securityleaders.com.br/eventos/security-leaders-nacional-2026/",
+      "fonte": "https://securityleaders.com.br/eventos/security-leaders-nacional-2026/",
+      "verificado_em": "2026-10-14"
+    },
+    {
+      "id": "cybersecfest-sao-paulo-2026",
+      "nome": "CyberSecFest São Paulo 2026",
+      "inicio": "2026-10-28",
+      "fim": "2026-10-28",
+      "cidade": "São Paulo",
+      "uf": "SP",
+      "formato": "Presencial",
+      "entrada": "Pago",
+      "tema": "Cibersegurança",
+      "site": "https://www.devopsbootcamp.net/cybersecfest-saopaulo",
+      "fonte": "https://infosec-conferences.com/event/20261028-cybersecfest-sao-paulo-2026/",
+      "verificado_em": "2026-10-14"
+    },
+    {
+      "id": "cisoxbrazil-2026",
+      "nome": "CISOXBrazil 2026",
+      "inicio": "2026-11-05",
+      "fim": "2026-11-05",
+      "cidade": "São Paulo",
+      "uf": "SP",
+      "formato": "Presencial",
+      "entrada": "Pago",
+      "tema": "Cibersegurança",
+      "resumo": "Fórum executivo para CISOs.",
+      "site": "https://www.helpnetsecurity.com/event/cisoxbrazil-2026/",
+      "fonte": "https://www.helpnetsecurity.com/event/cisoxbrazil-2026/",
+      "verificado_em": "2026-10-14"
+    },
+    {
+      "id": "nullbyte-2026",
+      "nome": "Nullbyte Security Conference 2026",
+      "inicio": "2026-11-07",
+      "fim": "2026-11-07",
+      "cidade": "Salvador",
+      "uf": "BA",
+      "formato": "Presencial",
+      "entrada": "Pago",
+      "tema": "Cibersegurança",
+      "site": "https://nullbyte-con.org/",
+      "fonte": "https://nullbyte-con.org/",
+      "verificado_em": "2026-10-14"
+    },
+    {
+      "id": "web-summit-rio-2027",
+      "nome": "Web Summit Rio 2027",
+      "inicio": "2027-06-14",
+      "fim": "2027-06-17",
+      "cidade": "Rio de Janeiro",
+      "uf": "RJ",
+      "local": "Riocentro",
+      "formato": "Presencial",
+      "entrada": "Pago",
+      "tema": "Cibersegurança e Privacidade",
+      "resumo": "Evento geral de tecnologia, com conteúdo de segurança e privacidade.",
+      "site": "https://rio.websummit.com/",
+      "fonte": "https://rio.websummit.com/",
+      "verificado_em": "2026-10-14"
+    }
+  ],
+  "a_confirmar": [
+    {
+      "nome": "BSides Rio de Janeiro 2027",
+      "previsao": "Março (edições de 2025 e 2026)",
+      "cidade": "Rio de Janeiro",
+      "uf": "RJ",
+      "tema": "Cibersegurança",
+      "site": "https://bsides.rio.br/"
+    },
+    {
+      "nome": "Security Leaders Rio de Janeiro 2027",
+      "previsao": "Abril (edição de 2026 em 01/04)",
+      "cidade": "Rio de Janeiro",
+      "uf": "RJ",
+      "tema": "Cibersegurança",
+      "site": "https://securityleaders.com.br/eventos/"
+    },
+    {
+      "nome": "CPDP LatAm 2027",
+      "previsao": "Agosto (edição de 2026 em 12 e 13/08)",
+      "cidade": "Rio de Janeiro",
+      "uf": "RJ",
+      "tema": "Privacidade",
+      "site": "https://cpdp.lat/"
+    },
+    {
+      "nome": "Rio Innovation Week 2027",
+      "previsao": "Agosto",
+      "cidade": "Rio de Janeiro",
+      "uf": "RJ",
+      "tema": "Cibersegurança e Privacidade",
+      "site": "https://rioinnovationweek.com.br/"
+    },
+    {
+      "nome": "Seminário de Privacidade CGI.br 2027",
+      "previsao": "Fim de agosto (edição de 2026 de 31/08 a 02/09)",
+      "cidade": "São Paulo",
+      "uf": "SP",
+      "tema": "Privacidade",
+      "site": "https://seminarioprivacidade.cgi.br/"
+    },
+    {
+      "nome": "Mind The Sec 2027",
+      "previsao": "Setembro (edição de 2026 de 15 a 17/09)",
+      "cidade": "São Paulo",
+      "uf": "SP",
+      "tema": "Cibersegurança",
+      "site": "https://www.mindthesec.com.br/"
+    },
+    {
+      "nome": "Febraban Tech 2027",
+      "previsao": "Maio ou junho",
+      "cidade": "São Paulo",
+      "uf": "SP",
+      "tema": "Cibersegurança",
+      "site": "https://febrabantech.febraban.org.br/"
+    },
+    {
+      "nome": "SBSeg 2027",
+      "previsao": "Setembro (edição de 2026 em Búzios/RJ)",
+      "cidade": "A definir",
+      "uf": "BR",
+      "tema": "Cibersegurança",
+      "site": "https://sbseg.sbc.org.br/"
+    }
+  ]
+}
