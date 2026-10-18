@@ -2,20 +2,6 @@
   "revisado_em": "2026-10-14",
   "eventos": [
     {
-      "id": "bsides-curitiba-2026",
-      "nome": "BSides Curitiba 2026",
-      "inicio": "2026-10-17",
-      "fim": "2026-10-17",
-      "cidade": "Curitiba",
-      "uf": "PR",
-      "formato": "Presencial",
-      "entrada": "Pago",
-      "tema": "Cibersegurança",
-      "site": "https://bsidescwb.com.br/",
-      "fonte": "https://infosec-conferences.com/event/20261017-bsides-curitiba-2026/",
-      "verificado_em": "2026-10-14"
-    },
-    {
       "id": "security-leaders-nacional-2026",
       "nome": "Security Leaders Nacional 2026",
       "inicio": "2026-10-21",

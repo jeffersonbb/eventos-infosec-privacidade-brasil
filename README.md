@@ -24,13 +24,12 @@ O Google Agenda pode levar algumas horas para buscar as atualizações.
 ## Próximos eventos
 
 <!-- TABELA:INICIO -->
-_Última revisão das fontes: 14/10/2026 · 7 eventos com data confirmada._
+_Última revisão das fontes: 14/10/2026 · 6 eventos com data confirmada._
 
 ### Outubro de 2026
 
 | Evento | Data | Local | Formato | Entrada | Tema | Chamada de palestras |
 |---|---|---|---|---|---|---|
-| [BSides Curitiba 2026](https://bsidescwb.com.br/) | 17/10/2026 | Curitiba/PR | Presencial | Pago | Cibersegurança | – |
 | [Security Leaders Nacional 2026](https://securityleaders.com.br/eventos/security-leaders-nacional-2026/) | 21 a 22/10/2026 | WTC Events Center, São Paulo/SP | Presencial | Gratuito com aprovação ou pago | Cibersegurança | – |
 | [CyberSecFest São Paulo 2026](https://www.devopsbootcamp.net/cybersecfest-saopaulo) | 28/10/2026 | São Paulo/SP | Presencial | Pago | Cibersegurança | – |
 

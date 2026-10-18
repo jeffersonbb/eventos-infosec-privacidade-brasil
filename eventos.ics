@@ -9,20 +9,6 @@ X-WR-CALDESC:Eventos de cibersegurança\, privacidade e LGPD no Brasil. Mantido 
 REFRESH-INTERVAL;VALUE=DURATION:P1D
 X-PUBLISHED-TTL:P1D
 BEGIN:VEVENT
-UID:bsides-curitiba-2026@eventos-infosec-privacidade-brasil
-DTSTAMP:20261014T000000Z
-LAST-MODIFIED:20261014T000000Z
-DTSTART;VALUE=DATE:20261017
-DTEND;VALUE=DATE:20261018
-SUMMARY:BSides Curitiba 2026
-LOCATION:Curitiba/PR
-DESCRIPTION:Cibersegurança · Presencial · Pago\nSite: https://bsidescwb.
- com.br/\nFonte da data: https://infosec-conferences.com/event/20261017-bsi
- des-curitiba-2026/
-URL:https://bsidescwb.com.br/
-TRANSP:TRANSPARENT
-END:VEVENT
-BEGIN:VEVENT
 UID:security-leaders-nacional-2026@eventos-infosec-privacidade-brasil
 DTSTAMP:20261014T000000Z
 LAST-MODIFIED:20261014T000000Z
