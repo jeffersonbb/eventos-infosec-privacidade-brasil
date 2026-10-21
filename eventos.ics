@@ -10,8 +10,8 @@ REFRESH-INTERVAL;VALUE=DURATION:P1D
 X-PUBLISHED-TTL:P1D
 BEGIN:VEVENT
 UID:security-leaders-nacional-2026@eventos-infosec-privacidade-brasil
-DTSTAMP:20261014T000000Z
-LAST-MODIFIED:20261014T000000Z
+DTSTAMP:20261021T000000Z
+LAST-MODIFIED:20261021T000000Z
 DTSTART;VALUE=DATE:20261021
 DTEND;VALUE=DATE:20261023
 SUMMARY:Security Leaders Nacional 2026
@@ -25,37 +25,9 @@ URL:https://securityleaders.com.br/eventos/security-leaders-nacional-2026/
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
-UID:cybersecfest-sao-paulo-2026@eventos-infosec-privacidade-brasil
-DTSTAMP:20261014T000000Z
-LAST-MODIFIED:20261014T000000Z
-DTSTART;VALUE=DATE:20261028
-DTEND;VALUE=DATE:20261029
-SUMMARY:CyberSecFest São Paulo 2026
-LOCATION:São Paulo/SP
-DESCRIPTION:Cibersegurança · Presencial · Pago\nSite: https://www.devops
- bootcamp.net/cybersecfest-saopaulo\nFonte da data: https://infosec-confere
- nces.com/event/20261028-cybersecfest-sao-paulo-2026/
-URL:https://www.devopsbootcamp.net/cybersecfest-saopaulo
-TRANSP:TRANSPARENT
-END:VEVENT
-BEGIN:VEVENT
-UID:cisoxbrazil-2026@eventos-infosec-privacidade-brasil
-DTSTAMP:20261014T000000Z
-LAST-MODIFIED:20261014T000000Z
-DTSTART;VALUE=DATE:20261105
-DTEND;VALUE=DATE:20261106
-SUMMARY:CISOXBrazil 2026
-LOCATION:São Paulo/SP
-DESCRIPTION:Cibersegurança · Presencial · Pago\nFórum executivo para CI
- SOs.\nSite: https://www.helpnetsecurity.com/event/cisoxbrazil-2026/\nFonte
-  da data: https://www.helpnetsecurity.com/event/cisoxbrazil-2026/
-URL:https://www.helpnetsecurity.com/event/cisoxbrazil-2026/
-TRANSP:TRANSPARENT
-END:VEVENT
-BEGIN:VEVENT
 UID:nullbyte-2026@eventos-infosec-privacidade-brasil
-DTSTAMP:20261014T000000Z
-LAST-MODIFIED:20261014T000000Z
+DTSTAMP:20261021T000000Z
+LAST-MODIFIED:20261021T000000Z
 DTSTART;VALUE=DATE:20261107
 DTEND;VALUE=DATE:20261108
 SUMMARY:Nullbyte Security Conference 2026
@@ -66,9 +38,52 @@ URL:https://nullbyte-con.org/
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
+UID:bsides-brasilia-2026@eventos-infosec-privacidade-brasil
+DTSTAMP:20261021T000000Z
+LAST-MODIFIED:20261021T000000Z
+DTSTART;VALUE=DATE:20261114
+DTEND;VALUE=DATE:20261115
+SUMMARY:BSides Brasília 2026
+LOCATION:CEUB (Asa Norte)\, Brasília/DF
+DESCRIPTION:Cibersegurança · Presencial · Pago\nConferência comunitári
+ a de segurança com palestras e CTF.\nSite: https://bsidesbsb.com\nFonte d
+ a data: https://bsidesbsb.com
+URL:https://bsidesbsb.com
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:bhack-2026@eventos-infosec-privacidade-brasil
+DTSTAMP:20261021T000000Z
+LAST-MODIFIED:20261021T000000Z
+DTSTART;VALUE=DATE:20261128
+DTEND;VALUE=DATE:20261130
+SUMMARY:BHack Conference 2026
+LOCATION:MinasCentro\, Belo Horizonte/MG
+DESCRIPTION:Cibersegurança · Presencial · Pago\nConferência de seguran
+ ça da informação e hacking de Belo Horizonte.\nSite: https://www.bhack.
+ com.br\nFonte da data: https://www.sympla.com.br/evento/bhack-conference-2
+ 026/3376844
+URL:https://www.bhack.com.br
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:307c-2026@eventos-infosec-privacidade-brasil
+DTSTAMP:20261021T000000Z
+LAST-MODIFIED:20261021T000000Z
+DTSTART;VALUE=DATE:20261205
+DTEND;VALUE=DATE:20261207
+SUMMARY:307 Temporary Security Conference (307c) 2026
+LOCATION:PUC-SP\, campus Consolação\, São Paulo/SP
+DESCRIPTION:Cibersegurança · Presencial · Gratuito\nConferência comunit
+ ária e gratuita de segurança e hacking\, com villages.\nSite: https://30
+ 7c.tmp.br/\nFonte da data: https://307c.tmp.br/
+URL:https://307c.tmp.br/
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
 UID:data-privacy-global-conference-2026@eventos-infosec-privacidade-brasil
-DTSTAMP:20261014T000000Z
-LAST-MODIFIED:20261014T000000Z
+DTSTAMP:20261021T000000Z
+LAST-MODIFIED:20261021T000000Z
 DTSTART;VALUE=DATE:20261207
 DTEND;VALUE=DATE:20261209
 SUMMARY:Data Privacy Global Conference 2026
@@ -95,9 +110,37 @@ URL:https://dpoday.com.br/
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
+UID:cybersecgo-2027@eventos-infosec-privacidade-brasil
+DTSTAMP:20261021T000000Z
+LAST-MODIFIED:20261021T000000Z
+DTSTART;VALUE=DATE:20270506
+DTEND;VALUE=DATE:20270508
+SUMMARY:CybersecGO 2027
+LOCATION:Centro de Convenções de Goiânia\, Goiânia/GO
+DESCRIPTION:Cibersegurança · Presencial · Pago\nConferência de ciberseg
+ urança de Goiás\; 1º lote até 31/01/2027.\nSite: https://cybersecgo.co
+ m.br/\nFonte da data: https://cybersecgo.com.br/
+URL:https://cybersecgo.com.br/
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:cybersecfest-belo-horizonte-2027@eventos-infosec-privacidade-brasil
+DTSTAMP:20261021T000000Z
+LAST-MODIFIED:20261021T000000Z
+DTSTART;VALUE=DATE:20270601
+DTEND;VALUE=DATE:20270602
+SUMMARY:CyberSecFest Belo Horizonte 2027
+LOCATION:Mercado de Origem\, Belo Horizonte/MG
+DESCRIPTION:Cibersegurança · Presencial · Pago\nSite: https://www.devops
+ bootcamp.net/cybersecfest-belohorizonte\nFonte da data: https://www.sympla
+ .com.br/evento/cybersecfest-belo-horizonte-edicao-2026/3223541
+URL:https://www.devopsbootcamp.net/cybersecfest-belohorizonte
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
 UID:web-summit-rio-2027@eventos-infosec-privacidade-brasil
-DTSTAMP:20261014T000000Z
-LAST-MODIFIED:20261014T000000Z
+DTSTAMP:20261021T000000Z
+LAST-MODIFIED:20261021T000000Z
 DTSTART;VALUE=DATE:20270614
 DTEND;VALUE=DATE:20270618
 SUMMARY:Web Summit Rio 2027
@@ -106,6 +149,36 @@ DESCRIPTION:Cibersegurança e Privacidade · Presencial · Pago\nEvento ger
  al de tecnologia\, com conteúdo de segurança e privacidade.\nSite: https
  ://rio.websummit.com/\nFonte da data: https://rio.websummit.com/
 URL:https://rio.websummit.com/
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:cybersecfest-sao-paulo-2027@eventos-infosec-privacidade-brasil
+DTSTAMP:20261021T000000Z
+LAST-MODIFIED:20261021T000000Z
+DTSTART;VALUE=DATE:20270629
+DTEND;VALUE=DATE:20270630
+SUMMARY:CyberSecFest São Paulo 2027
+LOCATION:Bisutti Contemporâneo (Av. Morumbi\, 8076)\, São Paulo/SP
+DESCRIPTION:Cibersegurança · Presencial · Pago\nSite: https://www.devops
+ bootcamp.net/cybersecfest-saopaulo\nFonte da data: https://www.sympla.com.
+ br/evento/cybersecfest-sao-paulo-edicao-2026/3223548
+URL:https://www.devopsbootcamp.net/cybersecfest-saopaulo
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:gartner-seguranca-risco-brasil-2027@eventos-infosec-privacidade-brasil
+DTSTAMP:20261021T000000Z
+LAST-MODIFIED:20261021T000000Z
+DTSTART;VALUE=DATE:20270803
+DTEND;VALUE=DATE:20270805
+SUMMARY:Conferência Gartner Cibersegurança & Gestão de Risco 2027
+LOCATION:Hotel WTC Sheraton\, São Paulo/SP
+DESCRIPTION:Cibersegurança · Presencial · Pago\nSite: https://www.gartne
+ r.com/pt-br/conferences/la/security-risk-management-brazil\nFonte da data:
+  https://www.gartner.com/pt-br/conferences/la/security-risk-management-bra
+ zil
+URL:https://www.gartner.com/pt-br/conferences/la/security-risk-management-b
+ razil
 TRANSP:TRANSPARENT
 END:VEVENT
 END:VCALENDAR

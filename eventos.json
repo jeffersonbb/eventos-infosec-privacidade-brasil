@@ -15,36 +15,7 @@
       "resumo": "Voucher gratuito para lideranças com e-mail corporativo, sujeito a aprovação.",
       "site": "https://securityleaders.com.br/eventos/security-leaders-nacional-2026/",
       "fonte": "https://securityleaders.com.br/eventos/security-leaders-nacional-2026/",
-      "verificado_em": "2026-10-14"
-    },
-    {
-      "id": "cybersecfest-sao-paulo-2026",
-      "nome": "CyberSecFest São Paulo 2026",
-      "inicio": "2026-10-28",
-      "fim": "2026-10-28",
-      "cidade": "São Paulo",
-      "uf": "SP",
-      "formato": "Presencial",
-      "entrada": "Pago",
-      "tema": "Cibersegurança",
-      "site": "https://www.devopsbootcamp.net/cybersecfest-saopaulo",
-      "fonte": "https://infosec-conferences.com/event/20261028-cybersecfest-sao-paulo-2026/",
-      "verificado_em": "2026-10-14"
-    },
-    {
-      "id": "cisoxbrazil-2026",
-      "nome": "CISOXBrazil 2026",
-      "inicio": "2026-11-05",
-      "fim": "2026-11-05",
-      "cidade": "São Paulo",
-      "uf": "SP",
-      "formato": "Presencial",
-      "entrada": "Pago",
-      "tema": "Cibersegurança",
-      "resumo": "Fórum executivo para CISOs.",
-      "site": "https://www.helpnetsecurity.com/event/cisoxbrazil-2026/",
-      "fonte": "https://www.helpnetsecurity.com/event/cisoxbrazil-2026/",
-      "verificado_em": "2026-10-14"
+      "verificado_em": "2026-10-21"
     },
     {
       "id": "nullbyte-2026",
@@ -58,7 +29,55 @@
       "tema": "Cibersegurança",
       "site": "https://nullbyte-con.org/",
       "fonte": "https://nullbyte-con.org/",
-      "verificado_em": "2026-10-14"
+      "verificado_em": "2026-10-21"
+    },
+    {
+      "id": "bsides-brasilia-2026",
+      "nome": "BSides Brasília 2026",
+      "inicio": "2026-11-14",
+      "fim": "2026-11-14",
+      "cidade": "Brasília",
+      "uf": "DF",
+      "local": "CEUB (Asa Norte)",
+      "formato": "Presencial",
+      "entrada": "Pago",
+      "tema": "Cibersegurança",
+      "resumo": "Conferência comunitária de segurança com palestras e CTF.",
+      "site": "https://bsidesbsb.com",
+      "fonte": "https://bsidesbsb.com",
+      "verificado_em": "2026-10-21"
+    },
+    {
+      "id": "bhack-2026",
+      "nome": "BHack Conference 2026",
+      "inicio": "2026-11-28",
+      "fim": "2026-11-29",
+      "cidade": "Belo Horizonte",
+      "uf": "MG",
+      "local": "MinasCentro",
+      "formato": "Presencial",
+      "entrada": "Pago",
+      "tema": "Cibersegurança",
+      "resumo": "Conferência de segurança da informação e hacking de Belo Horizonte.",
+      "site": "https://www.bhack.com.br",
+      "fonte": "https://www.sympla.com.br/evento/bhack-conference-2026/3376844",
+      "verificado_em": "2026-10-21"
+    },
+    {
+      "id": "307c-2026",
+      "nome": "307 Temporary Security Conference (307c) 2026",
+      "inicio": "2026-12-05",
+      "fim": "2026-12-06",
+      "cidade": "São Paulo",
+      "uf": "SP",
+      "local": "PUC-SP, campus Consolação",
+      "formato": "Presencial",
+      "entrada": "Gratuito",
+      "tema": "Cibersegurança",
+      "resumo": "Conferência comunitária e gratuita de segurança e hacking, com villages.",
+      "site": "https://307c.tmp.br/",
+      "fonte": "https://307c.tmp.br/",
+      "verificado_em": "2026-10-21"
     },
     {
       "id": "data-privacy-global-conference-2026",
@@ -74,7 +93,7 @@
       "resumo": "Conferência da Data Privacy Brasil sobre proteção de dados e governança no Sul Global.",
       "site": "https://dpgconference.com.br/",
       "fonte": "https://dpgconference.com.br/",
-      "verificado_em": "2026-10-14"
+      "verificado_em": "2026-10-21"
     },
     {
       "id": "dpoday-2027",
@@ -93,6 +112,37 @@
       "verificado_em": "2026-10-21"
     },
     {
+      "id": "cybersecgo-2027",
+      "nome": "CybersecGO 2027",
+      "inicio": "2027-05-06",
+      "fim": "2027-05-07",
+      "cidade": "Goiânia",
+      "uf": "GO",
+      "local": "Centro de Convenções de Goiânia",
+      "formato": "Presencial",
+      "entrada": "Pago",
+      "tema": "Cibersegurança",
+      "resumo": "Conferência de cibersegurança de Goiás; 1º lote até 31/01/2027.",
+      "site": "https://cybersecgo.com.br/",
+      "fonte": "https://cybersecgo.com.br/",
+      "verificado_em": "2026-10-21"
+    },
+    {
+      "id": "cybersecfest-belo-horizonte-2027",
+      "nome": "CyberSecFest Belo Horizonte 2027",
+      "inicio": "2027-06-01",
+      "fim": "2027-06-01",
+      "cidade": "Belo Horizonte",
+      "uf": "MG",
+      "local": "Mercado de Origem",
+      "formato": "Presencial",
+      "entrada": "Pago",
+      "tema": "Cibersegurança",
+      "site": "https://www.devopsbootcamp.net/cybersecfest-belohorizonte",
+      "fonte": "https://www.sympla.com.br/evento/cybersecfest-belo-horizonte-edicao-2026/3223541",
+      "verificado_em": "2026-10-21"
+    },
+    {
       "id": "web-summit-rio-2027",
       "nome": "Web Summit Rio 2027",
       "inicio": "2027-06-14",
@@ -106,7 +156,37 @@
       "resumo": "Evento geral de tecnologia, com conteúdo de segurança e privacidade.",
       "site": "https://rio.websummit.com/",
       "fonte": "https://rio.websummit.com/",
-      "verificado_em": "2026-10-14"
+      "verificado_em": "2026-10-21"
+    },
+    {
+      "id": "cybersecfest-sao-paulo-2027",
+      "nome": "CyberSecFest São Paulo 2027",
+      "inicio": "2027-06-29",
+      "fim": "2027-06-29",
+      "cidade": "São Paulo",
+      "uf": "SP",
+      "formato": "Presencial",
+      "entrada": "Pago",
+      "tema": "Cibersegurança",
+      "site": "https://www.devopsbootcamp.net/cybersecfest-saopaulo",
+      "fonte": "https://www.sympla.com.br/evento/cybersecfest-sao-paulo-edicao-2026/3223548",
+      "verificado_em": "2026-10-21",
+      "local": "Bisutti Contemporâneo (Av. Morumbi, 8076)"
+    },
+    {
+      "id": "gartner-seguranca-risco-brasil-2027",
+      "nome": "Conferência Gartner Cibersegurança & Gestão de Risco 2027",
+      "inicio": "2027-08-03",
+      "fim": "2027-08-04",
+      "cidade": "São Paulo",
+      "uf": "SP",
+      "local": "Hotel WTC Sheraton",
+      "formato": "Presencial",
+      "entrada": "Pago",
+      "tema": "Cibersegurança",
+      "site": "https://www.gartner.com/pt-br/conferences/la/security-risk-management-brazil",
+      "fonte": "https://www.gartner.com/pt-br/conferences/la/security-risk-management-brazil",
+      "verificado_em": "2026-10-21"
     }
   ],
   "a_confirmar": [
@@ -189,6 +269,22 @@
       "uf": "SP",
       "tema": "Cibersegurança",
       "site": "https://www.sympla.com.br/evento/sirena-2026-human-risk-cybersec-conference/3278845"
+    },
+    {
+      "nome": "Hacker Rangers Experience (HRXP) 2027",
+      "previsao": "Outubro (edição 2026 em 15/10, Hotel Panamby)",
+      "cidade": "São Paulo",
+      "uf": "SP",
+      "tema": "Cibersegurança",
+      "site": "https://hackerrangersexperience.com/"
+    },
+    {
+      "nome": "Encontro ANPD de Encarregados 2027",
+      "previsao": "Agosto (3º encontro em 19/08/2026, presencial com transmissão)",
+      "cidade": "Brasília",
+      "uf": "DF",
+      "tema": "Privacidade",
+      "site": "https://www.gov.br/anpd/"
     }
   ]
 }

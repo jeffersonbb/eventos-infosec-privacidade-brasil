@@ -24,26 +24,27 @@ O Google Agenda pode levar algumas horas para buscar as atualizações.
 ## Próximos eventos
 
 <!-- TABELA:INICIO -->
-_Última revisão das fontes: 21/10/2026 · 7 eventos com data confirmada._
+_Última revisão das fontes: 21/10/2026 · 12 eventos com data confirmada._
 
 ### Outubro de 2026
 
 | Evento | Data | Local | Formato | Entrada | Tema | Chamada de palestras |
 |---|---|---|---|---|---|---|
 | [Security Leaders Nacional 2026](https://securityleaders.com.br/eventos/security-leaders-nacional-2026/) | 21 a 22/10/2026 | WTC Events Center, São Paulo/SP | Presencial | Gratuito com aprovação ou pago | Cibersegurança | – |
-| [CyberSecFest São Paulo 2026](https://www.devopsbootcamp.net/cybersecfest-saopaulo) | 28/10/2026 | São Paulo/SP | Presencial | Pago | Cibersegurança | – |
 
 ### Novembro de 2026
 
 | Evento | Data | Local | Formato | Entrada | Tema | Chamada de palestras |
 |---|---|---|---|---|---|---|
-| [CISOXBrazil 2026](https://www.helpnetsecurity.com/event/cisoxbrazil-2026/) | 05/11/2026 | São Paulo/SP | Presencial | Pago | Cibersegurança | – |
 | [Nullbyte Security Conference 2026](https://nullbyte-con.org/) | 07/11/2026 | Salvador/BA | Presencial | Pago | Cibersegurança | – |
+| [BSides Brasília 2026](https://bsidesbsb.com) | 14/11/2026 | CEUB (Asa Norte), Brasília/DF | Presencial | Pago | Cibersegurança | – |
+| [BHack Conference 2026](https://www.bhack.com.br) | 28 a 29/11/2026 | MinasCentro, Belo Horizonte/MG | Presencial | Pago | Cibersegurança | – |
 
 ### Dezembro de 2026
 
 | Evento | Data | Local | Formato | Entrada | Tema | Chamada de palestras |
 |---|---|---|---|---|---|---|
+| [307 Temporary Security Conference (307c) 2026](https://307c.tmp.br/) | 05 a 06/12/2026 | PUC-SP, campus Consolação, São Paulo/SP | Presencial | Gratuito | Cibersegurança | – |
 | [Data Privacy Global Conference 2026](https://dpgconference.com.br/) | 07 a 08/12/2026 | ESPM Vila Mariana, São Paulo/SP | Presencial | Pago | Privacidade | – |
 
 ### Janeiro de 2027
@@ -52,11 +53,25 @@ _Última revisão das fontes: 21/10/2026 · 7 eventos com data confirmada._
 |---|---|---|---|---|---|---|
 | [DPOday 2027](https://dpoday.com.br/) | 28/01/2027 | Cubo Itaú (Vila Olímpia), São Paulo/SP | Presencial | Pago | Privacidade | – |
 
+### Maio de 2027
+
+| Evento | Data | Local | Formato | Entrada | Tema | Chamada de palestras |
+|---|---|---|---|---|---|---|
+| [CybersecGO 2027](https://cybersecgo.com.br/) | 06 a 07/05/2027 | Centro de Convenções de Goiânia, Goiânia/GO | Presencial | Pago | Cibersegurança | – |
+
 ### Junho de 2027
 
 | Evento | Data | Local | Formato | Entrada | Tema | Chamada de palestras |
 |---|---|---|---|---|---|---|
+| [CyberSecFest Belo Horizonte 2027](https://www.devopsbootcamp.net/cybersecfest-belohorizonte) | 01/06/2027 | Mercado de Origem, Belo Horizonte/MG | Presencial | Pago | Cibersegurança | – |
 | [Web Summit Rio 2027](https://rio.websummit.com/) | 14 a 17/06/2027 | Riocentro, Rio de Janeiro/RJ | Presencial | Pago | Cibersegurança e Privacidade | – |
+| [CyberSecFest São Paulo 2027](https://www.devopsbootcamp.net/cybersecfest-saopaulo) | 29/06/2027 | Bisutti Contemporâneo (Av. Morumbi, 8076), São Paulo/SP | Presencial | Pago | Cibersegurança | – |
+
+### Agosto de 2027
+
+| Evento | Data | Local | Formato | Entrada | Tema | Chamada de palestras |
+|---|---|---|---|---|---|---|
+| [Conferência Gartner Cibersegurança & Gestão de Risco 2027](https://www.gartner.com/pt-br/conferences/la/security-risk-management-brazil) | 03 a 04/08/2027 | Hotel WTC Sheraton, São Paulo/SP | Presencial | Pago | Cibersegurança | – |
 
 ### Próximas edições com data a confirmar
 
@@ -67,7 +82,9 @@ Eventos recorrentes cuja próxima data ainda não foi anunciada oficialmente. El
 | [BSides Rio de Janeiro 2027](https://bsides.rio.br/) | Março (edições de 2025 e 2026) | Rio de Janeiro/RJ | Cibersegurança |
 | [CNPPD 2027](https://apdados.org/) | Maio (edição 2026 em 8 e 9/05, UNIP Campus Norte, com transmissão online) | São Paulo/SP | Privacidade |
 | [CPDP LatAm 2027](https://cpdp.lat/) | Agosto (edição de 2026 em 12 e 13/08) | Rio de Janeiro/RJ | Privacidade |
+| [Encontro ANPD de Encarregados 2027](https://www.gov.br/anpd/) | Agosto (3º encontro em 19/08/2026, presencial com transmissão) | Brasília/DF | Privacidade |
 | [Febraban Tech 2027](https://febrabantech.febraban.org.br/) | Maio ou junho | São Paulo/SP | Cibersegurança |
+| [Hacker Rangers Experience (HRXP) 2027](https://hackerrangersexperience.com/) | Outubro (edição 2026 em 15/10, Hotel Panamby) | São Paulo/SP | Cibersegurança |
 | [Mind The Sec 2027](https://www.mindthesec.com.br/) | Setembro (edição de 2026 de 15 a 17/09) | São Paulo/SP | Cibersegurança |
 | [Rio Innovation Week 2027](https://rioinnovationweek.com.br/) | Agosto | Rio de Janeiro/RJ | Cibersegurança e Privacidade |
 | [SBSeg 2027](https://sbseg.sbc.org.br/) | Setembro (edição de 2026 em Búzios/RJ) | A definir/BR | Cibersegurança |
