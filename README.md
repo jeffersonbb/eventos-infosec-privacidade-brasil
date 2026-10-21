@@ -24,7 +24,7 @@ O Google Agenda pode levar algumas horas para buscar as atualizações.
 ## Próximos eventos
 
 <!-- TABELA:INICIO -->
-_Última revisão das fontes: 14/10/2026 · 6 eventos com data confirmada._
+_Última revisão das fontes: 21/10/2026 · 7 eventos com data confirmada._
 
 ### Outubro de 2026
 
@@ -46,6 +46,12 @@ _Última revisão das fontes: 14/10/2026 · 6 eventos com data confirmada._
 |---|---|---|---|---|---|---|
 | [Data Privacy Global Conference 2026](https://dpgconference.com.br/) | 07 a 08/12/2026 | ESPM Vila Mariana, São Paulo/SP | Presencial | Pago | Privacidade | – |
 
+### Janeiro de 2027
+
+| Evento | Data | Local | Formato | Entrada | Tema | Chamada de palestras |
+|---|---|---|---|---|---|---|
+| [DPOday 2027](https://dpoday.com.br/) | 28/01/2027 | Cubo Itaú (Vila Olímpia), São Paulo/SP | Presencial | Pago | Privacidade | – |
+
 ### Junho de 2027
 
 | Evento | Data | Local | Formato | Entrada | Tema | Chamada de palestras |
@@ -59,6 +65,7 @@ Eventos recorrentes cuja próxima data ainda não foi anunciada oficialmente. El
 | Evento | Previsão | Local | Tema |
 |---|---|---|---|
 | [BSides Rio de Janeiro 2027](https://bsides.rio.br/) | Março (edições de 2025 e 2026) | Rio de Janeiro/RJ | Cibersegurança |
+| [CNPPD 2027](https://apdados.org/) | Maio (edição 2026 em 8 e 9/05, UNIP Campus Norte, com transmissão online) | São Paulo/SP | Privacidade |
 | [CPDP LatAm 2027](https://cpdp.lat/) | Agosto (edição de 2026 em 12 e 13/08) | Rio de Janeiro/RJ | Privacidade |
 | [Febraban Tech 2027](https://febrabantech.febraban.org.br/) | Maio ou junho | São Paulo/SP | Cibersegurança |
 | [Mind The Sec 2027](https://www.mindthesec.com.br/) | Setembro (edição de 2026 de 15 a 17/09) | São Paulo/SP | Cibersegurança |
@@ -66,6 +73,7 @@ Eventos recorrentes cuja próxima data ainda não foi anunciada oficialmente. El
 | [SBSeg 2027](https://sbseg.sbc.org.br/) | Setembro (edição de 2026 em Búzios/RJ) | A definir/BR | Cibersegurança |
 | [Security Leaders Rio de Janeiro 2027](https://securityleaders.com.br/eventos/) | Abril (edição de 2026 em 01/04) | Rio de Janeiro/RJ | Cibersegurança |
 | [Seminário de Privacidade CGI.br 2027](https://seminarioprivacidade.cgi.br/) | Fim de agosto (edição de 2026 de 31/08 a 02/09) | São Paulo/SP | Privacidade |
+| [SIRENA Human Risk & Cybersec Conference 2027](https://www.sympla.com.br/evento/sirena-2026-human-risk-cybersec-conference/3278845) | Maio (edição 2026 em 14/05, Estanplaza International) | São Paulo/SP | Cibersegurança |
 <!-- TABELA:FIM -->
 
 ## Como contribuir

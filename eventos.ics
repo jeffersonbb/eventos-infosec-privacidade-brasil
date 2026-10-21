@@ -80,6 +80,21 @@ URL:https://dpgconference.com.br/
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
+UID:dpoday-2027@eventos-infosec-privacidade-brasil
+DTSTAMP:20261021T000000Z
+LAST-MODIFIED:20261021T000000Z
+DTSTART;VALUE=DATE:20270128
+DTEND;VALUE=DATE:20270129
+SUMMARY:DPOday 2027
+LOCATION:Cubo Itaú (Vila Olímpia)\, São Paulo/SP
+DESCRIPTION:Privacidade · Presencial · Pago\nEncontro anual de DPOs e pro
+ fissionais de privacidade organizado pela DPOnet no Dia Internacional da P
+ roteção de Dados.\nSite: https://dpoday.com.br/\nFonte da data: https://
+ dpoday.com.br/
+URL:https://dpoday.com.br/
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
 UID:web-summit-rio-2027@eventos-infosec-privacidade-brasil
 DTSTAMP:20261014T000000Z
 LAST-MODIFIED:20261014T000000Z

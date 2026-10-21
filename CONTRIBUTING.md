@@ -6,7 +6,7 @@ O jeito mais simples é abrir uma issue ([sugerir evento](../../issues/new?templ
 
 - Tema: cibersegurança, segurança da informação, hacking, privacidade ou proteção de dados.
 - Realizado no Brasil, ou online com foco no público brasileiro.
-- Aberto ao público (gratuito ou pago). Eventos só para convidados e eventos comerciais de um único fornecedor não entram.
+- Aberto ao público (gratuito ou pago). Eventos só para convidados não entram. Eventos organizados por uma única empresa entram, desde que abertos ao público.
 - Data confirmada em fonte verificável, de preferência o site oficial ou a página de inscrição.
 
 ## Editando o `eventos.json`

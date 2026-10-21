@@ -1,5 +1,5 @@
 {
-  "revisado_em": "2026-10-14",
+  "revisado_em": "2026-10-21",
   "eventos": [
     {
       "id": "security-leaders-nacional-2026",
@@ -75,6 +75,22 @@
       "site": "https://dpgconference.com.br/",
       "fonte": "https://dpgconference.com.br/",
       "verificado_em": "2026-10-14"
+    },
+    {
+      "id": "dpoday-2027",
+      "nome": "DPOday 2027",
+      "inicio": "2027-01-28",
+      "fim": "2027-01-28",
+      "cidade": "São Paulo",
+      "uf": "SP",
+      "local": "Cubo Itaú (Vila Olímpia)",
+      "formato": "Presencial",
+      "entrada": "Pago",
+      "tema": "Privacidade",
+      "resumo": "Encontro anual de DPOs e profissionais de privacidade organizado pela DPOnet no Dia Internacional da Proteção de Dados.",
+      "site": "https://dpoday.com.br/",
+      "fonte": "https://dpoday.com.br/",
+      "verificado_em": "2026-10-21"
     },
     {
       "id": "web-summit-rio-2027",
@@ -157,6 +173,22 @@
       "uf": "BR",
       "tema": "Cibersegurança",
       "site": "https://sbseg.sbc.org.br/"
+    },
+    {
+      "nome": "CNPPD 2027",
+      "previsao": "Maio (edição 2026 em 8 e 9/05, UNIP Campus Norte, com transmissão online)",
+      "cidade": "São Paulo",
+      "uf": "SP",
+      "tema": "Privacidade",
+      "site": "https://apdados.org/"
+    },
+    {
+      "nome": "SIRENA Human Risk & Cybersec Conference 2027",
+      "previsao": "Maio (edição 2026 em 14/05, Estanplaza International)",
+      "cidade": "São Paulo",
+      "uf": "SP",
+      "tema": "Cibersegurança",
+      "site": "https://www.sympla.com.br/evento/sirena-2026-human-risk-cybersec-conference/3278845"
     }
   ]
 }
