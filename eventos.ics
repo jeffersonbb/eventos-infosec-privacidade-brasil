@@ -9,22 +9,6 @@ X-WR-CALDESC:Eventos de cibersegurança\, privacidade e LGPD no Brasil. Mantido 
 REFRESH-INTERVAL;VALUE=DURATION:P1D
 X-PUBLISHED-TTL:P1D
 BEGIN:VEVENT
-UID:security-leaders-nacional-2026@eventos-infosec-privacidade-brasil
-DTSTAMP:20261021T000000Z
-LAST-MODIFIED:20261021T000000Z
-DTSTART;VALUE=DATE:20261021
-DTEND;VALUE=DATE:20261023
-SUMMARY:Security Leaders Nacional 2026
-LOCATION:WTC Events Center\, São Paulo/SP
-DESCRIPTION:Cibersegurança · Presencial · Gratuito com aprovação ou pa
- go\nVoucher gratuito para lideranças com e-mail corporativo\, sujeito a a
- provação.\nSite: https://securityleaders.com.br/eventos/security-leaders
- -nacional-2026/\nFonte da data: https://securityleaders.com.br/eventos/sec
- urity-leaders-nacional-2026/
-URL:https://securityleaders.com.br/eventos/security-leaders-nacional-2026/
-TRANSP:TRANSPARENT
-END:VEVENT
-BEGIN:VEVENT
 UID:nullbyte-2026@eventos-infosec-privacidade-brasil
 DTSTAMP:20261021T000000Z
 LAST-MODIFIED:20261021T000000Z

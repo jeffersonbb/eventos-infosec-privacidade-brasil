@@ -24,13 +24,7 @@ O Google Agenda pode levar algumas horas para buscar as atualizações.
 ## Próximos eventos
 
 <!-- TABELA:INICIO -->
-_Última revisão das fontes: 21/10/2026 · 12 eventos com data confirmada._
-
-### Outubro de 2026
-
-| Evento | Data | Local | Formato | Entrada | Tema | Chamada de palestras |
-|---|---|---|---|---|---|---|
-| [Security Leaders Nacional 2026](https://securityleaders.com.br/eventos/security-leaders-nacional-2026/) | 21 a 22/10/2026 | WTC Events Center, São Paulo/SP | Presencial | Gratuito com aprovação ou pago | Cibersegurança | – |
+_Última revisão das fontes: 21/10/2026 · 11 eventos com data confirmada._
 
 ### Novembro de 2026
 

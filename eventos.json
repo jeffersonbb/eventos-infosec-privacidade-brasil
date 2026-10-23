@@ -2,22 +2,6 @@
   "revisado_em": "2026-10-21",
   "eventos": [
     {
-      "id": "security-leaders-nacional-2026",
-      "nome": "Security Leaders Nacional 2026",
-      "inicio": "2026-10-21",
-      "fim": "2026-10-22",
-      "cidade": "São Paulo",
-      "uf": "SP",
-      "local": "WTC Events Center",
-      "formato": "Presencial",
-      "entrada": "Gratuito com aprovação ou pago",
-      "tema": "Cibersegurança",
-      "resumo": "Voucher gratuito para lideranças com e-mail corporativo, sujeito a aprovação.",
-      "site": "https://securityleaders.com.br/eventos/security-leaders-nacional-2026/",
-      "fonte": "https://securityleaders.com.br/eventos/security-leaders-nacional-2026/",
-      "verificado_em": "2026-10-21"
-    },
-    {
       "id": "nullbyte-2026",
       "nome": "Nullbyte Security Conference 2026",
       "inicio": "2026-11-07",
