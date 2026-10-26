@@ -165,4 +165,19 @@ URL:https://www.gartner.com/pt-br/conferences/la/security-risk-management-b
  razil
 TRANSP:TRANSPARENT
 END:VEVENT
+BEGIN:VEVENT
+UID:gartner-cio-brasil-2027@eventos-infosec-privacidade-brasil
+DTSTAMP:20261026T000000Z
+LAST-MODIFIED:20261026T000000Z
+DTSTART;VALUE=DATE:20270921
+DTEND;VALUE=DATE:20270924
+SUMMARY:Conferência Gartner CIO & IT Executive 2027
+LOCATION:São Paulo/SP
+DESCRIPTION:Cibersegurança · Presencial · Pago\nEvento de TI corporativa
+  com trilha de segurança\, voltado a CIOs e executivos de TI.\nSite: http
+ s://www.gartner.com/en/conferences/la/cio-brazil\nFonte da data: https://w
+ ww.gartner.com/en/conferences/la/cio-brazil/exhibitors
+URL:https://www.gartner.com/en/conferences/la/cio-brazil
+TRANSP:TRANSPARENT
+END:VEVENT
 END:VCALENDAR

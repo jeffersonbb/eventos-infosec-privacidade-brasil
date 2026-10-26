@@ -24,7 +24,7 @@ O Google Agenda pode levar algumas horas para buscar as atualizações.
 ## Próximos eventos
 
 <!-- TABELA:INICIO -->
-_Última revisão das fontes: 21/10/2026 · 11 eventos com data confirmada._
+_Última revisão das fontes: 26/10/2026 · 12 eventos com data confirmada._
 
 ### Novembro de 2026
 
@@ -66,6 +66,12 @@ _Última revisão das fontes: 21/10/2026 · 11 eventos com data confirmada._
 | Evento | Data | Local | Formato | Entrada | Tema | Chamada de palestras |
 |---|---|---|---|---|---|---|
 | [Conferência Gartner Cibersegurança & Gestão de Risco 2027](https://www.gartner.com/pt-br/conferences/la/security-risk-management-brazil) | 03 a 04/08/2027 | Hotel WTC Sheraton, São Paulo/SP | Presencial | Pago | Cibersegurança | – |
+
+### Setembro de 2027
+
+| Evento | Data | Local | Formato | Entrada | Tema | Chamada de palestras |
+|---|---|---|---|---|---|---|
+| [Conferência Gartner CIO & IT Executive 2027](https://www.gartner.com/en/conferences/la/cio-brazil) | 21 a 23/09/2027 | São Paulo/SP | Presencial | Pago | Cibersegurança | – |
 
 ### Próximas edições com data a confirmar
 

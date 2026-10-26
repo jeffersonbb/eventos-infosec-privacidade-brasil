@@ -1,5 +1,5 @@
 {
-  "revisado_em": "2026-10-21",
+  "revisado_em": "2026-10-26",
   "eventos": [
     {
       "id": "nullbyte-2026",
@@ -171,6 +171,21 @@
       "site": "https://www.gartner.com/pt-br/conferences/la/security-risk-management-brazil",
       "fonte": "https://www.gartner.com/pt-br/conferences/la/security-risk-management-brazil",
       "verificado_em": "2026-10-21"
+    },
+    {
+      "id": "gartner-cio-brasil-2027",
+      "nome": "Conferência Gartner CIO & IT Executive 2027",
+      "inicio": "2027-09-21",
+      "fim": "2027-09-23",
+      "cidade": "São Paulo",
+      "uf": "SP",
+      "formato": "Presencial",
+      "entrada": "Pago",
+      "tema": "Cibersegurança",
+      "resumo": "Evento de TI corporativa com trilha de segurança, voltado a CIOs e executivos de TI.",
+      "site": "https://www.gartner.com/en/conferences/la/cio-brazil",
+      "fonte": "https://www.gartner.com/en/conferences/la/cio-brazil/exhibitors",
+      "verificado_em": "2026-10-26"
     }
   ],
   "a_confirmar": [
