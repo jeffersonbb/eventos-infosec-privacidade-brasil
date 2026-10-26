@@ -24,7 +24,7 @@ O Google Agenda pode levar algumas horas para buscar as atualizações.
 ## Próximos eventos
 
 <!-- TABELA:INICIO -->
-_Última revisão das fontes: 26/10/2026 · 12 eventos com data confirmada._
+_Última revisão das fontes: 26/10/2026 · 13 eventos com data confirmada._
 
 ### Novembro de 2026
 
@@ -46,6 +46,12 @@ _Última revisão das fontes: 26/10/2026 · 12 eventos com data confirmada._
 | Evento | Data | Local | Formato | Entrada | Tema | Chamada de palestras |
 |---|---|---|---|---|---|---|
 | [DPOday 2027](https://dpoday.com.br/) | 28/01/2027 | Cubo Itaú (Vila Olímpia), São Paulo/SP | Presencial | Pago | Privacidade | – |
+
+### Março de 2027
+
+| Evento | Data | Local | Formato | Entrada | Tema | Chamada de palestras |
+|---|---|---|---|---|---|---|
+| [SecOps Summit 2027](https://secopssummit.com.br/) | 02 a 04/03/2027 | Centro de Eventos FIERGS, Porto Alegre/RS | Presencial | Pago | Cibersegurança | – |
 
 ### Maio de 2027
 

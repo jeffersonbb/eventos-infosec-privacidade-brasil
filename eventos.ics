@@ -94,6 +94,22 @@ URL:https://dpoday.com.br/
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
+UID:secops-summit-2027@eventos-infosec-privacidade-brasil
+DTSTAMP:20261026T000000Z
+LAST-MODIFIED:20261026T000000Z
+DTSTART;VALUE=DATE:20270302
+DTEND;VALUE=DATE:20270305
+SUMMARY:SecOps Summit 2027
+LOCATION:Centro de Eventos FIERGS\, Porto Alegre/RS
+DESCRIPTION:Cibersegurança · Presencial · Pago\nEvento de segurança e t
+ ecnologia de Porto Alegre\, com palcos simultâneos e feira.\nSite: https:
+ //secopssummit.com.br/\nFonte da data: https://brasilinovador.com.br/secop
+ s-summit-2027-consolida-expansao-no-centro-de-eventos-fiergs-com-foco-em-i
+ nternacionalizacao-e-mercado-c-level/
+URL:https://secopssummit.com.br/
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
 UID:cybersecgo-2027@eventos-infosec-privacidade-brasil
 DTSTAMP:20261021T000000Z
 LAST-MODIFIED:20261021T000000Z
