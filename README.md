@@ -30,7 +30,7 @@ _Última revisão das fontes: 02/11/2026 · 13 eventos com data confirmada._
 
 | Evento | Data | Local | Formato | Entrada | Tema | Chamada de palestras |
 |---|---|---|---|---|---|---|
-| [Nullbyte Security Conference 2026](https://nullbyte-con.org/) | 07/11/2026 | Salvador/BA | Presencial | Pago | Cibersegurança | – |
+| [Nullbyte Security Conference 2026](https://nullbyte-con.org/) | 07/11/2026 | Cine de Arte do Museu (Vitória), Salvador/BA | Presencial | Pago | Cibersegurança | – |
 | [BSides Brasília 2026](https://bsidesbsb.com) | 14/11/2026 | CEUB (Asa Norte), Brasília/DF | Presencial | Pago | Cibersegurança | – |
 | [BHack Conference 2026](https://www.bhack.com.br) | 28 a 29/11/2026 | MinasCentro, Belo Horizonte/MG | Presencial | Pago | Cibersegurança | – |
 
@@ -38,7 +38,7 @@ _Última revisão das fontes: 02/11/2026 · 13 eventos com data confirmada._
 
 | Evento | Data | Local | Formato | Entrada | Tema | Chamada de palestras |
 |---|---|---|---|---|---|---|
-| [307 Temporary Security Conference (307c) 2026](https://307c.tmp.br/) | 05 a 06/12/2026 | PUC-SP, campus Consolação, São Paulo/SP | Presencial | Gratuito | Cibersegurança | – |
+| [307 Temporary Security Conference (307c) 2026](https://307c.tmp.br/) | 05 a 06/12/2026 | PUC-SP, campus Consolação, São Paulo/SP | Presencial | Gratuito | Cibersegurança | [aberta](https://forms.gle/aerTXvE76VHQwLaE9) |
 | [Data Privacy Global Conference 2026](https://dpgconference.com.br/) | 07 a 08/12/2026 | ESPM Vila Mariana, São Paulo/SP | Presencial | Pago | Privacidade | – |
 
 ### Janeiro de 2027

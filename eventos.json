@@ -13,7 +13,8 @@
       "tema": "Cibersegurança",
       "site": "https://nullbyte-con.org/",
       "fonte": "https://nullbyte-con.org/",
-      "verificado_em": "2026-10-21"
+      "verificado_em": "2026-11-02",
+      "local": "Cine de Arte do Museu (Vitória)"
     },
     {
       "id": "bsides-brasilia-2026",
@@ -29,7 +30,7 @@
       "resumo": "Conferência comunitária de segurança com palestras e CTF.",
       "site": "https://bsidesbsb.com",
       "fonte": "https://bsidesbsb.com",
-      "verificado_em": "2026-10-21"
+      "verificado_em": "2026-11-02"
     },
     {
       "id": "bhack-2026",
@@ -45,7 +46,7 @@
       "resumo": "Conferência de segurança da informação e hacking de Belo Horizonte.",
       "site": "https://www.bhack.com.br",
       "fonte": "https://www.sympla.com.br/evento/bhack-conference-2026/3376844",
-      "verificado_em": "2026-10-21"
+      "verificado_em": "2026-11-02"
     },
     {
       "id": "307c-2026",
@@ -61,7 +62,10 @@
       "resumo": "Conferência comunitária e gratuita de segurança e hacking, com villages.",
       "site": "https://307c.tmp.br/",
       "fonte": "https://307c.tmp.br/",
-      "verificado_em": "2026-10-21"
+      "verificado_em": "2026-11-02",
+      "cfp": {
+        "url": "https://forms.gle/aerTXvE76VHQwLaE9"
+      }
     },
     {
       "id": "data-privacy-global-conference-2026",
@@ -77,7 +81,7 @@
       "resumo": "Conferência da Data Privacy Brasil sobre proteção de dados e governança no Sul Global.",
       "site": "https://dpgconference.com.br/",
       "fonte": "https://dpgconference.com.br/",
-      "verificado_em": "2026-10-21"
+      "verificado_em": "2026-11-02"
     },
     {
       "id": "dpoday-2027",
@@ -156,7 +160,7 @@
       "resumo": "Evento geral de tecnologia, com conteúdo de segurança e privacidade.",
       "site": "https://rio.websummit.com/",
       "fonte": "https://rio.websummit.com/",
-      "verificado_em": "2026-10-21"
+      "verificado_em": "2026-11-02"
     },
     {
       "id": "cybersecfest-sao-paulo-2027",
@@ -170,7 +174,7 @@
       "tema": "Cibersegurança",
       "site": "https://www.devopsbootcamp.net/cybersecfest-saopaulo",
       "fonte": "https://www.sympla.com.br/evento/cybersecfest-sao-paulo-edicao-2026/3223548",
-      "verificado_em": "2026-10-21",
+      "verificado_em": "2026-11-02",
       "local": "Bisutti Contemporâneo (Av. Morumbi, 8076)"
     },
     {
