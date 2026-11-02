@@ -1,5 +1,5 @@
 {
-  "revisado_em": "2026-10-26",
+  "revisado_em": "2026-11-02",
   "eventos": [
     {
       "id": "nullbyte-2026",
@@ -93,7 +93,7 @@
       "resumo": "Encontro anual de DPOs e profissionais de privacidade organizado pela DPOnet no Dia Internacional da Proteção de Dados.",
       "site": "https://dpoday.com.br/",
       "fonte": "https://dpoday.com.br/",
-      "verificado_em": "2026-10-21"
+      "verificado_em": "2026-11-02"
     },
     {
       "id": "secops-summit-2027",
@@ -108,8 +108,8 @@
       "tema": "Cibersegurança",
       "resumo": "Evento de segurança e tecnologia de Porto Alegre, com palcos simultâneos e feira.",
       "site": "https://secopssummit.com.br/",
-      "fonte": "https://brasilinovador.com.br/secops-summit-2027-consolida-expansao-no-centro-de-eventos-fiergs-com-foco-em-internacionalizacao-e-mercado-c-level/",
-      "verificado_em": "2026-10-26"
+      "fonte": "https://secopssummit.com.br/",
+      "verificado_em": "2026-11-02"
     },
     {
       "id": "cybersecgo-2027",
@@ -125,7 +125,7 @@
       "resumo": "Conferência de cibersegurança de Goiás; 1º lote até 31/01/2027.",
       "site": "https://cybersecgo.com.br/",
       "fonte": "https://cybersecgo.com.br/",
-      "verificado_em": "2026-10-21"
+      "verificado_em": "2026-11-02"
     },
     {
       "id": "cybersecfest-belo-horizonte-2027",
@@ -140,7 +140,7 @@
       "tema": "Cibersegurança",
       "site": "https://www.devopsbootcamp.net/cybersecfest-belohorizonte",
       "fonte": "https://www.sympla.com.br/evento/cybersecfest-belo-horizonte-edicao-2026/3223541",
-      "verificado_em": "2026-10-21"
+      "verificado_em": "2026-11-02"
     },
     {
       "id": "web-summit-rio-2027",
@@ -207,7 +207,7 @@
   "a_confirmar": [
     {
       "nome": "BSides Rio de Janeiro 2027",
-      "previsao": "Março (edições de 2025 e 2026)",
+      "previsao": "Março ou abril (calendário BSides Global indica 03/04/2027; site oficial ainda sem data)",
       "cidade": "Rio de Janeiro",
       "uf": "RJ",
       "tema": "Cibersegurança",
@@ -247,7 +247,7 @@
     },
     {
       "nome": "Mind The Sec 2027",
-      "previsao": "Setembro (edição de 2026 de 15 a 17/09)",
+      "previsao": "Setembro (edição de 2026 de 15 a 17/09); pré-reserva e call for papers 2027 no site",
       "cidade": "São Paulo",
       "uf": "SP",
       "tema": "Cibersegurança",
@@ -255,7 +255,7 @@
     },
     {
       "nome": "Febraban Tech 2027",
-      "previsao": "Maio ou junho",
+      "previsao": "Sem data; organização indica permanência no Distrito Anhembi (edição de 2026 de 24 a 26/08)",
       "cidade": "São Paulo",
       "uf": "SP",
       "tema": "Cibersegurança",
@@ -300,6 +300,54 @@
       "uf": "DF",
       "tema": "Privacidade",
       "site": "https://www.gov.br/anpd/"
+    },
+    {
+      "nome": "H2HC 2026",
+      "previsao": "Novembro (agenda JustCyber cita nov/2026, sem dia confirmado)",
+      "cidade": "São Paulo",
+      "uf": "SP",
+      "tema": "Cibersegurança",
+      "site": "https://eventos.justcyber.com.br/en/eventos/h2hc-2026"
+    },
+    {
+      "nome": "Security Leaders Nacional 2027",
+      "previsao": "Outubro (edição de 2026 em 21 e 22/10)",
+      "cidade": "São Paulo",
+      "uf": "SP",
+      "tema": "Cibersegurança",
+      "site": "https://securityleaders.com.br/eventos/"
+    },
+    {
+      "nome": "Cyber Security Summit Brasil 2027",
+      "previsao": "Outubro (edição de 2026 em 05 e 06/10)",
+      "cidade": "São Paulo",
+      "uf": "SP",
+      "tema": "Cibersegurança",
+      "site": "https://infosec-conferences.com/event/20261005-cyber-security-summit-brasil-2026/"
+    },
+    {
+      "nome": "BSides São Paulo 2027",
+      "previsao": "Maio (edição de 2026 em maio)",
+      "cidade": "São Paulo",
+      "uf": "SP",
+      "tema": "Cibersegurança",
+      "site": "https://infosec-conferences.com/event/20260516-bsides-sao-paulo-2026/"
+    },
+    {
+      "nome": "BSides Curitiba 2027",
+      "previsao": "Outubro (edição de 2026 em 17/10)",
+      "cidade": "Curitiba",
+      "uf": "PR",
+      "tema": "Cibersegurança",
+      "site": "https://infosec-conferences.com/event/20261017-bsides-curitiba-2026/"
+    },
+    {
+      "nome": "Roadsec São Paulo 2027",
+      "previsao": "Outubro (edição de 2026 em outubro)",
+      "cidade": "São Paulo",
+      "uf": "SP",
+      "tema": "Cibersegurança",
+      "site": "https://eventos.justcyber.com.br/eventos/roadsec-2026/"
     }
   ]
 }
