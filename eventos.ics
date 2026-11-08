@@ -9,19 +9,6 @@ X-WR-CALDESC:Eventos de cibersegurança\, privacidade e LGPD no Brasil. Mantido 
 REFRESH-INTERVAL;VALUE=DURATION:P1D
 X-PUBLISHED-TTL:P1D
 BEGIN:VEVENT
-UID:nullbyte-2026@eventos-infosec-privacidade-brasil
-DTSTAMP:20261102T000000Z
-LAST-MODIFIED:20261102T000000Z
-DTSTART;VALUE=DATE:20261107
-DTEND;VALUE=DATE:20261108
-SUMMARY:Nullbyte Security Conference 2026
-LOCATION:Cine de Arte do Museu (Vitória)\, Salvador/BA
-DESCRIPTION:Cibersegurança · Presencial · Pago\nSite: https://nullbyte-c
- on.org/\nFonte da data: https://nullbyte-con.org/
-URL:https://nullbyte-con.org/
-TRANSP:TRANSPARENT
-END:VEVENT
-BEGIN:VEVENT
 UID:bsides-brasilia-2026@eventos-infosec-privacidade-brasil
 DTSTAMP:20261102T000000Z
 LAST-MODIFIED:20261102T000000Z

@@ -2,21 +2,6 @@
   "revisado_em": "2026-11-02",
   "eventos": [
     {
-      "id": "nullbyte-2026",
-      "nome": "Nullbyte Security Conference 2026",
-      "inicio": "2026-11-07",
-      "fim": "2026-11-07",
-      "cidade": "Salvador",
-      "uf": "BA",
-      "formato": "Presencial",
-      "entrada": "Pago",
-      "tema": "Cibersegurança",
-      "site": "https://nullbyte-con.org/",
-      "fonte": "https://nullbyte-con.org/",
-      "verificado_em": "2026-11-02",
-      "local": "Cine de Arte do Museu (Vitória)"
-    },
-    {
       "id": "bsides-brasilia-2026",
       "nome": "BSides Brasília 2026",
       "inicio": "2026-11-14",

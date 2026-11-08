@@ -24,13 +24,12 @@ O Google Agenda pode levar algumas horas para buscar as atualizações.
 ## Próximos eventos
 
 <!-- TABELA:INICIO -->
-_Última revisão das fontes: 02/11/2026 · 13 eventos com data confirmada._
+_Última revisão das fontes: 02/11/2026 · 12 eventos com data confirmada._
 
 ### Novembro de 2026
 
 | Evento | Data | Local | Formato | Entrada | Tema | Chamada de palestras |
 |---|---|---|---|---|---|---|
-| [Nullbyte Security Conference 2026](https://nullbyte-con.org/) | 07/11/2026 | Cine de Arte do Museu (Vitória), Salvador/BA | Presencial | Pago | Cibersegurança | – |
 | [BSides Brasília 2026](https://bsidesbsb.com) | 14/11/2026 | CEUB (Asa Norte), Brasília/DF | Presencial | Pago | Cibersegurança | – |
 | [BHack Conference 2026](https://www.bhack.com.br) | 28 a 29/11/2026 | MinasCentro, Belo Horizonte/MG | Presencial | Pago | Cibersegurança | – |
 
