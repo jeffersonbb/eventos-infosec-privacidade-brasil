@@ -1,6 +1,22 @@
 {
-  "revisado_em": "2026-11-02",
+  "revisado_em": "2026-11-09",
   "eventos": [
+    {
+      "id": "dialogo-brasil-portugal-musehum-2026",
+      "nome": "O que os dados dizem sobre nós? Um diálogo Brasil–Portugal",
+      "inicio": "2026-11-11",
+      "fim": "2026-11-11",
+      "cidade": "Rio de Janeiro",
+      "uf": "RJ",
+      "local": "MUSEHUM (Museu das Comunicações e Humanidades), Flamengo",
+      "formato": "Presencial",
+      "entrada": "Gratuito",
+      "tema": "Cibersegurança e Privacidade",
+      "resumo": "Roda de conversa e lançamento do livro \"Proteção de Dados e Segurança da Informação: diálogos entre Brasil e Portugal\" (17h às 19h30; 63 lugares).",
+      "site": "https://diariodorio.com/agenda/2026/11/04/brasil-e-portugal-discutem-protecao-de-dados-e-seguranca-digital-em-evento-no-rio.html",
+      "fonte": "https://diariodorio.com/agenda/2026/11/04/brasil-e-portugal-discutem-protecao-de-dados-e-seguranca-digital-em-evento-no-rio.html",
+      "verificado_em": "2026-11-09"
+    },
     {
       "id": "bsides-brasilia-2026",
       "nome": "BSides Brasília 2026",
@@ -15,7 +31,7 @@
       "resumo": "Conferência comunitária de segurança com palestras e CTF.",
       "site": "https://bsidesbsb.com",
       "fonte": "https://bsidesbsb.com",
-      "verificado_em": "2026-11-02"
+      "verificado_em": "2026-11-09"
     },
     {
       "id": "bhack-2026",
@@ -31,7 +47,7 @@
       "resumo": "Conferência de segurança da informação e hacking de Belo Horizonte.",
       "site": "https://www.bhack.com.br",
       "fonte": "https://www.sympla.com.br/evento/bhack-conference-2026/3376844",
-      "verificado_em": "2026-11-02"
+      "verificado_em": "2026-11-09"
     },
     {
       "id": "307c-2026",
@@ -47,7 +63,7 @@
       "resumo": "Conferência comunitária e gratuita de segurança e hacking, com villages.",
       "site": "https://307c.tmp.br/",
       "fonte": "https://307c.tmp.br/",
-      "verificado_em": "2026-11-02",
+      "verificado_em": "2026-11-09",
       "cfp": {
         "url": "https://forms.gle/aerTXvE76VHQwLaE9"
       }
@@ -66,7 +82,7 @@
       "resumo": "Conferência da Data Privacy Brasil sobre proteção de dados e governança no Sul Global.",
       "site": "https://dpgconference.com.br/",
       "fonte": "https://dpgconference.com.br/",
-      "verificado_em": "2026-11-02"
+      "verificado_em": "2026-11-09"
     },
     {
       "id": "dpoday-2027",
@@ -82,7 +98,7 @@
       "resumo": "Encontro anual de DPOs e profissionais de privacidade organizado pela DPOnet no Dia Internacional da Proteção de Dados.",
       "site": "https://dpoday.com.br/",
       "fonte": "https://dpoday.com.br/",
-      "verificado_em": "2026-11-02"
+      "verificado_em": "2026-11-09"
     },
     {
       "id": "secops-summit-2027",
@@ -98,7 +114,7 @@
       "resumo": "Evento de segurança e tecnologia de Porto Alegre, com palcos simultâneos e feira.",
       "site": "https://secopssummit.com.br/",
       "fonte": "https://secopssummit.com.br/",
-      "verificado_em": "2026-11-02"
+      "verificado_em": "2026-11-09"
     },
     {
       "id": "cybersecgo-2027",
@@ -114,7 +130,7 @@
       "resumo": "Conferência de cibersegurança de Goiás; 1º lote até 31/01/2027.",
       "site": "https://cybersecgo.com.br/",
       "fonte": "https://cybersecgo.com.br/",
-      "verificado_em": "2026-11-02"
+      "verificado_em": "2026-11-09"
     },
     {
       "id": "cybersecfest-belo-horizonte-2027",
@@ -129,7 +145,7 @@
       "tema": "Cibersegurança",
       "site": "https://www.devopsbootcamp.net/cybersecfest-belohorizonte",
       "fonte": "https://www.sympla.com.br/evento/cybersecfest-belo-horizonte-edicao-2026/3223541",
-      "verificado_em": "2026-11-02"
+      "verificado_em": "2026-11-09"
     },
     {
       "id": "web-summit-rio-2027",
@@ -145,7 +161,7 @@
       "resumo": "Evento geral de tecnologia, com conteúdo de segurança e privacidade.",
       "site": "https://rio.websummit.com/",
       "fonte": "https://rio.websummit.com/",
-      "verificado_em": "2026-11-02"
+      "verificado_em": "2026-11-09"
     },
     {
       "id": "cybersecfest-sao-paulo-2027",
@@ -159,7 +175,7 @@
       "tema": "Cibersegurança",
       "site": "https://www.devopsbootcamp.net/cybersecfest-saopaulo",
       "fonte": "https://www.sympla.com.br/evento/cybersecfest-sao-paulo-edicao-2026/3223548",
-      "verificado_em": "2026-11-02",
+      "verificado_em": "2026-11-09",
       "local": "Bisutti Contemporâneo (Av. Morumbi, 8076)"
     },
     {
@@ -174,8 +190,8 @@
       "entrada": "Pago",
       "tema": "Cibersegurança",
       "site": "https://www.gartner.com/pt-br/conferences/la/security-risk-management-brazil",
-      "fonte": "https://www.gartner.com/pt-br/conferences/la/security-risk-management-brazil",
-      "verificado_em": "2026-10-21"
+      "fonte": "https://www.helpnetsecurity.com/event/gartner-cybersecurity-risk-management-summit-2027-brazil/",
+      "verificado_em": "2026-11-09"
     },
     {
       "id": "gartner-cio-brasil-2027",
@@ -189,8 +205,9 @@
       "tema": "Cibersegurança",
       "resumo": "Evento de TI corporativa com trilha de segurança, voltado a CIOs e executivos de TI.",
       "site": "https://www.gartner.com/en/conferences/la/cio-brazil",
-      "fonte": "https://www.gartner.com/en/conferences/la/cio-brazil/exhibitors",
-      "verificado_em": "2026-10-26"
+      "fonte": "https://www.gartner.com/en/conferences/la/cio-brazil/venue-travel",
+      "verificado_em": "2026-11-09",
+      "local": "Sheraton São Paulo WTC Hotel"
     }
   ],
   "a_confirmar": [

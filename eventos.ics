@@ -9,9 +9,29 @@ X-WR-CALDESC:Eventos de cibersegurança\, privacidade e LGPD no Brasil. Mantido 
 REFRESH-INTERVAL;VALUE=DURATION:P1D
 X-PUBLISHED-TTL:P1D
 BEGIN:VEVENT
+UID:dialogo-brasil-portugal-musehum-2026@eventos-infosec-privacidade-brasil
+DTSTAMP:20261109T000000Z
+LAST-MODIFIED:20261109T000000Z
+DTSTART;VALUE=DATE:20261111
+DTEND;VALUE=DATE:20261112
+SUMMARY:O que os dados dizem sobre nós? Um diálogo Brasil–Portugal
+LOCATION:MUSEHUM (Museu das Comunicações e Humanidades)\, Flamengo\, Rio 
+ de Janeiro/RJ
+DESCRIPTION:Cibersegurança e Privacidade · Presencial · Gratuito\nRoda d
+ e conversa e lançamento do livro "Proteção de Dados e Segurança da Inf
+ ormação: diálogos entre Brasil e Portugal" (17h às 19h30\; 63 lugares)
+ .\nSite: https://diariodorio.com/agenda/2026/11/04/brasil-e-portugal-discu
+ tem-protecao-de-dados-e-seguranca-digital-em-evento-no-rio.html\nFonte da 
+ data: https://diariodorio.com/agenda/2026/11/04/brasil-e-portugal-discutem
+ -protecao-de-dados-e-seguranca-digital-em-evento-no-rio.html
+URL:https://diariodorio.com/agenda/2026/11/04/brasil-e-portugal-discutem-pr
+ otecao-de-dados-e-seguranca-digital-em-evento-no-rio.html
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
 UID:bsides-brasilia-2026@eventos-infosec-privacidade-brasil
-DTSTAMP:20261102T000000Z
-LAST-MODIFIED:20261102T000000Z
+DTSTAMP:20261109T000000Z
+LAST-MODIFIED:20261109T000000Z
 DTSTART;VALUE=DATE:20261114
 DTEND;VALUE=DATE:20261115
 SUMMARY:BSides Brasília 2026
@@ -24,8 +44,8 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:bhack-2026@eventos-infosec-privacidade-brasil
-DTSTAMP:20261102T000000Z
-LAST-MODIFIED:20261102T000000Z
+DTSTAMP:20261109T000000Z
+LAST-MODIFIED:20261109T000000Z
 DTSTART;VALUE=DATE:20261128
 DTEND;VALUE=DATE:20261130
 SUMMARY:BHack Conference 2026
@@ -39,8 +59,8 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:307c-2026@eventos-infosec-privacidade-brasil
-DTSTAMP:20261102T000000Z
-LAST-MODIFIED:20261102T000000Z
+DTSTAMP:20261109T000000Z
+LAST-MODIFIED:20261109T000000Z
 DTSTART;VALUE=DATE:20261205
 DTEND;VALUE=DATE:20261207
 SUMMARY:307 Temporary Security Conference (307c) 2026
@@ -54,8 +74,8 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:data-privacy-global-conference-2026@eventos-infosec-privacidade-brasil
-DTSTAMP:20261102T000000Z
-LAST-MODIFIED:20261102T000000Z
+DTSTAMP:20261109T000000Z
+LAST-MODIFIED:20261109T000000Z
 DTSTART;VALUE=DATE:20261207
 DTEND;VALUE=DATE:20261209
 SUMMARY:Data Privacy Global Conference 2026
@@ -68,8 +88,8 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:dpoday-2027@eventos-infosec-privacidade-brasil
-DTSTAMP:20261102T000000Z
-LAST-MODIFIED:20261102T000000Z
+DTSTAMP:20261109T000000Z
+LAST-MODIFIED:20261109T000000Z
 DTSTART;VALUE=DATE:20270128
 DTEND;VALUE=DATE:20270129
 SUMMARY:DPOday 2027
@@ -83,8 +103,8 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:secops-summit-2027@eventos-infosec-privacidade-brasil
-DTSTAMP:20261102T000000Z
-LAST-MODIFIED:20261102T000000Z
+DTSTAMP:20261109T000000Z
+LAST-MODIFIED:20261109T000000Z
 DTSTART;VALUE=DATE:20270302
 DTEND;VALUE=DATE:20270305
 SUMMARY:SecOps Summit 2027
@@ -97,8 +117,8 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:cybersecgo-2027@eventos-infosec-privacidade-brasil
-DTSTAMP:20261102T000000Z
-LAST-MODIFIED:20261102T000000Z
+DTSTAMP:20261109T000000Z
+LAST-MODIFIED:20261109T000000Z
 DTSTART;VALUE=DATE:20270506
 DTEND;VALUE=DATE:20270508
 SUMMARY:CybersecGO 2027
@@ -111,8 +131,8 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:cybersecfest-belo-horizonte-2027@eventos-infosec-privacidade-brasil
-DTSTAMP:20261102T000000Z
-LAST-MODIFIED:20261102T000000Z
+DTSTAMP:20261109T000000Z
+LAST-MODIFIED:20261109T000000Z
 DTSTART;VALUE=DATE:20270601
 DTEND;VALUE=DATE:20270602
 SUMMARY:CyberSecFest Belo Horizonte 2027
@@ -125,8 +145,8 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:web-summit-rio-2027@eventos-infosec-privacidade-brasil
-DTSTAMP:20261102T000000Z
-LAST-MODIFIED:20261102T000000Z
+DTSTAMP:20261109T000000Z
+LAST-MODIFIED:20261109T000000Z
 DTSTART;VALUE=DATE:20270614
 DTEND;VALUE=DATE:20270618
 SUMMARY:Web Summit Rio 2027
@@ -139,8 +159,8 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:cybersecfest-sao-paulo-2027@eventos-infosec-privacidade-brasil
-DTSTAMP:20261102T000000Z
-LAST-MODIFIED:20261102T000000Z
+DTSTAMP:20261109T000000Z
+LAST-MODIFIED:20261109T000000Z
 DTSTART;VALUE=DATE:20270629
 DTEND;VALUE=DATE:20270630
 SUMMARY:CyberSecFest São Paulo 2027
@@ -153,32 +173,32 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:gartner-seguranca-risco-brasil-2027@eventos-infosec-privacidade-brasil
-DTSTAMP:20261021T000000Z
-LAST-MODIFIED:20261021T000000Z
+DTSTAMP:20261109T000000Z
+LAST-MODIFIED:20261109T000000Z
 DTSTART;VALUE=DATE:20270803
 DTEND;VALUE=DATE:20270805
 SUMMARY:Conferência Gartner Cibersegurança & Gestão de Risco 2027
 LOCATION:Hotel WTC Sheraton\, São Paulo/SP
 DESCRIPTION:Cibersegurança · Presencial · Pago\nSite: https://www.gartne
  r.com/pt-br/conferences/la/security-risk-management-brazil\nFonte da data:
-  https://www.gartner.com/pt-br/conferences/la/security-risk-management-bra
- zil
+  https://www.helpnetsecurity.com/event/gartner-cybersecurity-risk-manageme
+ nt-summit-2027-brazil/
 URL:https://www.gartner.com/pt-br/conferences/la/security-risk-management-b
  razil
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:gartner-cio-brasil-2027@eventos-infosec-privacidade-brasil
-DTSTAMP:20261026T000000Z
-LAST-MODIFIED:20261026T000000Z
+DTSTAMP:20261109T000000Z
+LAST-MODIFIED:20261109T000000Z
 DTSTART;VALUE=DATE:20270921
 DTEND;VALUE=DATE:20270924
 SUMMARY:Conferência Gartner CIO & IT Executive 2027
-LOCATION:São Paulo/SP
+LOCATION:Sheraton São Paulo WTC Hotel\, São Paulo/SP
 DESCRIPTION:Cibersegurança · Presencial · Pago\nEvento de TI corporativa
   com trilha de segurança\, voltado a CIOs e executivos de TI.\nSite: http
  s://www.gartner.com/en/conferences/la/cio-brazil\nFonte da data: https://w
- ww.gartner.com/en/conferences/la/cio-brazil/exhibitors
+ ww.gartner.com/en/conferences/la/cio-brazil/venue-travel
 URL:https://www.gartner.com/en/conferences/la/cio-brazil
 TRANSP:TRANSPARENT
 END:VEVENT
