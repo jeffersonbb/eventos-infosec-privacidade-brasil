@@ -18,6 +18,22 @@
       "verificado_em": "2026-11-09"
     },
     {
+      "id": "sailpoint-navigate-sao-paulo-2026",
+      "nome": "SailPoint Navigate São Paulo 2026",
+      "inicio": "2026-11-12",
+      "fim": "2026-11-12",
+      "cidade": "São Paulo",
+      "uf": "SP",
+      "local": "Hotel Unique",
+      "formato": "Presencial",
+      "entrada": "Gratuito (inscrição sujeita a aprovação)",
+      "tema": "Cibersegurança",
+      "resumo": "Conferência da SailPoint sobre segurança de identidade, governança de identidade e acesso privilegiado.",
+      "site": "https://www.sailpoint.com/pt-br/navigate/sao-paulo",
+      "fonte": "https://www.sailpoint.com/pt-br/navigate/sao-paulo",
+      "verificado_em": "2026-11-09"
+    },
+    {
       "id": "bsides-brasilia-2026",
       "nome": "BSides Brasília 2026",
       "inicio": "2026-11-14",
@@ -63,10 +79,7 @@
       "resumo": "Conferência comunitária e gratuita de segurança e hacking, com villages.",
       "site": "https://307c.tmp.br/",
       "fonte": "https://307c.tmp.br/",
-      "verificado_em": "2026-11-09",
-      "cfp": {
-        "url": "https://forms.gle/aerTXvE76VHQwLaE9"
-      }
+      "verificado_em": "2026-11-09"
     },
     {
       "id": "data-privacy-global-conference-2026",
