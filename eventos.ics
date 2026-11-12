@@ -9,26 +9,6 @@ X-WR-CALDESC:Eventos de cibersegurança\, privacidade e LGPD no Brasil. Mantido 
 REFRESH-INTERVAL;VALUE=DURATION:P1D
 X-PUBLISHED-TTL:P1D
 BEGIN:VEVENT
-UID:dialogo-brasil-portugal-musehum-2026@eventos-infosec-privacidade-brasil
-DTSTAMP:20261109T000000Z
-LAST-MODIFIED:20261109T000000Z
-DTSTART;VALUE=DATE:20261111
-DTEND;VALUE=DATE:20261112
-SUMMARY:O que os dados dizem sobre nós? Um diálogo Brasil–Portugal
-LOCATION:MUSEHUM (Museu das Comunicações e Humanidades)\, Flamengo\, Rio 
- de Janeiro/RJ
-DESCRIPTION:Cibersegurança e Privacidade · Presencial · Gratuito\nRoda d
- e conversa e lançamento do livro "Proteção de Dados e Segurança da Inf
- ormação: diálogos entre Brasil e Portugal" (17h às 19h30\; 63 lugares)
- .\nSite: https://diariodorio.com/agenda/2026/11/04/brasil-e-portugal-discu
- tem-protecao-de-dados-e-seguranca-digital-em-evento-no-rio.html\nFonte da 
- data: https://diariodorio.com/agenda/2026/11/04/brasil-e-portugal-discutem
- -protecao-de-dados-e-seguranca-digital-em-evento-no-rio.html
-URL:https://diariodorio.com/agenda/2026/11/04/brasil-e-portugal-discutem-pr
- otecao-de-dados-e-seguranca-digital-em-evento-no-rio.html
-TRANSP:TRANSPARENT
-END:VEVENT
-BEGIN:VEVENT
 UID:sailpoint-navigate-sao-paulo-2026@eventos-infosec-privacidade-brasil
 DTSTAMP:20261109T000000Z
 LAST-MODIFIED:20261109T000000Z

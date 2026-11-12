@@ -24,13 +24,12 @@ O Google Agenda pode levar algumas horas para buscar as atualizações.
 ## Próximos eventos
 
 <!-- TABELA:INICIO -->
-_Última revisão das fontes: 09/11/2026 · 14 eventos com data confirmada._
+_Última revisão das fontes: 09/11/2026 · 13 eventos com data confirmada._
 
 ### Novembro de 2026
 
 | Evento | Data | Local | Formato | Entrada | Tema | Chamada de palestras |
 |---|---|---|---|---|---|---|
-| [O que os dados dizem sobre nós? Um diálogo Brasil–Portugal](https://diariodorio.com/agenda/2026/11/04/brasil-e-portugal-discutem-protecao-de-dados-e-seguranca-digital-em-evento-no-rio.html) | 11/11/2026 | MUSEHUM (Museu das Comunicações e Humanidades), Flamengo, Rio de Janeiro/RJ | Presencial | Gratuito | Cibersegurança e Privacidade | – |
 | [SailPoint Navigate São Paulo 2026](https://www.sailpoint.com/pt-br/navigate/sao-paulo) | 12/11/2026 | Hotel Unique, São Paulo/SP | Presencial | Gratuito (inscrição sujeita a aprovação) | Cibersegurança | – |
 | [BSides Brasília 2026](https://bsidesbsb.com) | 14/11/2026 | CEUB (Asa Norte), Brasília/DF | Presencial | Pago | Cibersegurança | – |
 | [BHack Conference 2026](https://www.bhack.com.br) | 28 a 29/11/2026 | MinasCentro, Belo Horizonte/MG | Presencial | Pago | Cibersegurança | – |
