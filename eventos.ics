@@ -9,22 +9,6 @@ X-WR-CALDESC:Eventos de cibersegurança\, privacidade e LGPD no Brasil. Mantido 
 REFRESH-INTERVAL;VALUE=DURATION:P1D
 X-PUBLISHED-TTL:P1D
 BEGIN:VEVENT
-UID:sailpoint-navigate-sao-paulo-2026@eventos-infosec-privacidade-brasil
-DTSTAMP:20261109T000000Z
-LAST-MODIFIED:20261109T000000Z
-DTSTART;VALUE=DATE:20261112
-DTEND;VALUE=DATE:20261113
-SUMMARY:SailPoint Navigate São Paulo 2026
-LOCATION:Hotel Unique\, São Paulo/SP
-DESCRIPTION:Cibersegurança · Presencial · Gratuito (inscrição sujeita 
- a aprovação)\nConferência da SailPoint sobre segurança de identidade\,
-  governança de identidade e acesso privilegiado.\nSite: https://www.sailp
- oint.com/pt-br/navigate/sao-paulo\nFonte da data: https://www.sailpoint.co
- m/pt-br/navigate/sao-paulo
-URL:https://www.sailpoint.com/pt-br/navigate/sao-paulo
-TRANSP:TRANSPARENT
-END:VEVENT
-BEGIN:VEVENT
 UID:bsides-brasilia-2026@eventos-infosec-privacidade-brasil
 DTSTAMP:20261109T000000Z
 LAST-MODIFIED:20261109T000000Z
